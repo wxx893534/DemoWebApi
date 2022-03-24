@@ -1,0 +1,7 @@
+D:\.netcode\代码库\Demo\DemoWebApi\Unit\bin\Debug\Unit.dll
+D:\.netcode\代码库\Demo\DemoWebApi\Unit\bin\Debug\Unit.pdb
+D:\.netcode\代码库\Demo\DemoWebApi\Unit\bin\Debug\Newtonsoft.Json.dll
+D:\.netcode\代码库\Demo\DemoWebApi\Unit\bin\Debug\Newtonsoft.Json.xml
+D:\.netcode\代码库\Demo\DemoWebApi\Unit\obj\Debug\Unit.csproj.CopyComplete
+D:\.netcode\代码库\Demo\DemoWebApi\Unit\obj\Debug\Unit.dll
+D:\.netcode\代码库\Demo\DemoWebApi\Unit\obj\Debug\Unit.pdb
